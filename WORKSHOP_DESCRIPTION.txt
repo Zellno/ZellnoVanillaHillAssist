@@ -50,6 +50,12 @@ SimulationModule properties may conflict.
 
 CarPack vehicle classes are not modified.
 
+[h2]Source Code[/h2]
+
+[url=https://github.com/Zellno/ZellnoVanillaHillAssist]GitHub — Zellno Vanilla Hill Assist[/url]
+
+The source repository contains the original configuration and documentation. Compiled PBOs, signatures and signing keys are not distributed through GitHub.
+
 [h2]License and credits[/h2]
 
 Original project code and documentation: MIT License.
@@ -58,3 +64,25 @@ DayZ and its original assets are property of Bohemia Interactive.
 
 This is an unofficial community mod and is not affiliated with or endorsed by
 Bohemia Interactive.
+
+[h2]Support the project[/h2]
+
+Zellno mods are free and open source, but developing, testing and maintaining them takes time.
+
+If you enjoy my work and would like to support future development, you can buy me a coffee here:
+
+[url=https://www.buymeacoffee.com/noobopensource]Buy Me a Coffee — Noob Open Source[/url]
+
+Thank you for your support!
+
+[h2]Monetization Permission[/h2]
+
+Zellno permits the use of Zellno Vanilla Hill Assist on monetized DayZ servers, provided that the server operator is registered, approved and listed under Bohemia Interactive's DayZ Server Monetization program and complies with all applicable rules.
+
+This permission applies only to the original content provided by Zellno in Zellno Vanilla Hill Assist. It does not grant permission to monetize DayZ itself or any third-party modification or content used alongside this mod.
+
+Server operators are responsible for obtaining any additional permissions required by the authors of other mods installed on their servers.
+
+[url=https://www.bohemia.net/monetization]Official monetization rules[/url]
+
+[url=https://old.bohemia.net/monetization/approved/dayz]Approved DayZ servers[/url]
