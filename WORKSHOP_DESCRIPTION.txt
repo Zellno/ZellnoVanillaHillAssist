@@ -1,0 +1,60 @@
+[h1]Zellno Vanilla Hill Assist[/h1]
+
+Improves the hill-climbing performance of vanilla DayZ vehicles while
+preserving the individual character of each vehicle.
+
+[h2]Supported vehicles[/h2]
+
+[list]
+[*] M3S Covered
+[*] Ada 4x4
+[*] Olga 24
+[*] Sarka 120
+[*] Gunter 2
+[*] Humvee
+[/list]
+
+[h2]Features[/h2]
+
+[list]
+[*] Better performance on steep roads
+[*] Individual tuning for every supported vehicle
+[*] More useful low- and medium-RPM torque
+[*] Vanilla drivetrain identity preserved
+[*] Vanilla sound assets retained
+[*] No scripts
+[*] No custom models or textures
+[*] No economy wipe required
+[/list]
+
+The mod was tested vehicle by vehicle on a steep official homologation route
+leaving Mogilevka in Chernarus.
+
+Existing vanilla vehicles are affected after the mod is loaded. Vehicles do
+not need to be respawned.
+
+[h2]Installation[/h2]
+
+This mod must be loaded by both the server and connecting players.
+
+Copy the included public key to the server keys directory and add:
+
+[code]@ZellnoVanillaHillAssist[/code]
+
+to the server mod list.
+
+[h2]Compatibility[/h2]
+
+Mods that overwrite the same vanilla vehicle engine, clutch, gearbox or
+SimulationModule properties may conflict.
+
+CarPack vehicle classes are not modified.
+
+[h2]License and credits[/h2]
+
+Original project code and documentation: MIT License.
+
+DayZ and its original assets are property of Bohemia Interactive.
+
+This is an unofficial community mod and is not affiliated with or endorsed by
+Bohemia Interactive.

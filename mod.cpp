@@ -1,0 +1,10 @@
+name = "Zellno Vanilla Hill Assist";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "Balanced hill performance for vanilla vehicles";
+overview = "Improves hill-climbing performance of vanilla DayZ vehicles while preserving their individual character.";
+action = "";
+author = "Zellno";
+version = "0.1.0";
