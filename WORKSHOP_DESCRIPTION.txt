@@ -75,6 +75,12 @@ If you enjoy my work and would like to support future development, you can buy m
 
 Thank you for your support!
 
+[h1]OFFICIAL MOD SUPPORT[/h1]
+
+For questions, bug reports, compatibility feedback and mod support, join the official Zellno Discord community:
+
+[url=https://discord.gg/bhfBetKtqr]Zellno Mod Support — Discord[/url]
+
 [h2]Monetization Permission[/h2]
 
 Zellno permits the use of Zellno Vanilla Hill Assist on monetized DayZ servers, provided that the server operator is registered, approved and listed under Bohemia Interactive's DayZ Server Monetization program and complies with all applicable rules.
