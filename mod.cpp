@@ -7,4 +7,4 @@ tooltip = "Balanced hill performance for vanilla vehicles";
 overview = "Improves hill-climbing performance of vanilla DayZ vehicles while preserving their individual character.";
 action = "";
 author = "Zellno";
-version = "0.1.0";
+version = "0.1.1";

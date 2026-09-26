@@ -54,18 +54,20 @@ class CfgVehicles
                 coupleTime = 0.18;
             };
 
+
             class Gearbox
             {
-                reverse = 20.93;
+                reverse = 9;
 
                 ratios[] =
                 {
-                    9.5,
-                    6.0,
-                    4.3,
-                    3.2
+                    9,
+                    6,
+                    4,
+                    3
                 };
             };
+
         };
     };
 
@@ -207,7 +209,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Rpm0",
     				1
@@ -221,7 +223,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Rpm1",
     				1
@@ -235,7 +237,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Offload_Rpm1",
     				1
@@ -249,7 +251,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Rpm2",
     				1
@@ -263,7 +265,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Offload_Rpm2",
     				1
@@ -277,7 +279,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Rpm3",
     				1
@@ -291,7 +293,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Offload_Rpm3",
     				1
@@ -305,7 +307,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Rpm4",
     				1
@@ -319,7 +321,7 @@ class CfgSoundShaders
     	{
     		samples[]=
     		{
-    			
+
     			{
     				"\DZ\sounds\vehicles\truck_01\Truck_01_Engine_Ext_Offload_Rpm4",
     				1
@@ -334,7 +336,7 @@ class CfgSoundShaders
 		{
 			samples[]=
 			{
-				
+
 				{
 					"\DZ\sounds\vehicles\shared\add_layers\Truck_01_Engine_Ext_Broken",
 					1
