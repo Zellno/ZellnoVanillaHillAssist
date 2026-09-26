@@ -81,7 +81,7 @@ Private signing keys are never included in this repository.
 
 ## Version
 
-Current public release: `0.1.0`.
+Current public release: `0.1.1`.
 
 The earlier `0.0.x-lab` versions were private development builds used for
 vehicle-by-vehicle testing.

@@ -1,6 +1,20 @@
 # Changelog
 
 All notable public changes to this project are documented here.
+## 0.1.1 — 2026-09-26
+
+### Changed
+
+- Revised the vanilla M3S gearbox ratios.
+- Reverse and first gear now use the same `9` ratio.
+- Forward ratios are now `9`, `6`, `4` and `3`.
+- Other supported vehicle configurations remain unchanged.
+
+### Notes
+
+- No vehicle durability, suspension, steering or storage values were changed.
+- No scripts, custom models or textures were added.
+
 
 ## 0.1.0 — 2026-09-09
 
