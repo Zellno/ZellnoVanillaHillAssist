@@ -77,6 +77,10 @@ The included `build.sh` is the maintainer's Linux and Wine build workflow.
 It expects an installed copy of DayZ Tools and locally configured signing
 keys. Local paths may need adjustment for another development environment.
 
+For the verified BankRev and CfgConvert extraction workflow, including
+`winepath` conversion and recurring error diagnostics, see
+[DayZ Tools on Linux with Wine](docs/DAYZ_TOOLS_LINUX.md).
+
 Private signing keys are never included in this repository.
 
 ## Version
