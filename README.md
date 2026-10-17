@@ -73,6 +73,11 @@ so the official value remains active. As a result, the M3S may have slightly
 better uphill response in DayZ 1.30 than it had in DayZ 1.29, in addition to
 the existing Hill Assist tuning.
 
+During testing on 2026-10-17, stationary vehicle oscillation was observed on
+vanilla and CarPack vehicles. The same behavior was reproduced without
+Zellno Vanilla Hill Assist loaded, including with engines switched off.
+Therefore, this observed DayZ 1.30 vehicle behavior is not caused by this mod.
+
 The mod changes vanilla vehicle simulation configuration.
 
 Another mod that overwrites the same `SimulationModule`, engine torque curve,
