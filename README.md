@@ -86,6 +86,9 @@ guarantee compatibility when two mods replace the same vehicle properties.
 
 The mod does not modify CarPack vehicle classes.
 
+The vanilla Jana 50 (`Motorbike_01`) and Bitrak 682 (`Motorbike_02`)
+motorcycles introduced with DayZ 1.30 are not modified by version 0.1.1.
+
 ## Building
 
 The included `build.sh` is the maintainer's Linux and Wine build workflow.
