@@ -9,6 +9,10 @@ All notable public changes to this project are documented here.
 - Confirmed that the mod does not overwrite the M3S throttle configuration.
 - The vanilla DayZ 1.30 `slopeCoef = 0.75` therefore remains active and may
   slightly improve the M3S uphill response compared with DayZ 1.29.
+- Stationary oscillation was observed on vanilla and CarPack vehicles,
+  including with engines switched off.
+- The same oscillation was reproduced without Zellno Vanilla Hill Assist
+  loaded, confirming that the observed behavior is not caused by this mod.
 - No source, PBO, signature, Workshop package or mod version change was
   required.
 
