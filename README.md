@@ -63,6 +63,16 @@ that uses it.
 
 ## Compatibility
 
+Zellno Vanilla Hill Assist 0.1.1 was audited and tested against DayZ 1.30.
+No incompatibilities were found and no rebuild of the published PBO was
+required.
+
+The DayZ 1.30 vanilla M3S adds `slopeCoef = 0.75` to its throttle
+configuration. This mod does not overwrite the M3S throttle configuration,
+so the official value remains active. As a result, the M3S may have slightly
+better uphill response in DayZ 1.30 than it had in DayZ 1.29, in addition to
+the existing Hill Assist tuning.
+
 The mod changes vanilla vehicle simulation configuration.
 
 Another mod that overwrites the same `SimulationModule`, engine torque curve,
