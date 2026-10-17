@@ -13,6 +13,8 @@ All notable public changes to this project are documented here.
   including with engines switched off.
 - The same oscillation was reproduced without Zellno Vanilla Hill Assist
   loaded, confirming that the observed behavior is not caused by this mod.
+- Confirmed that the new vanilla Jana 50 (`Motorbike_01`) and Bitrak 682
+  (`Motorbike_02`) motorcycles are not modified by version `0.1.1`.
 - No source, PBO, signature, Workshop package or mod version change was
   required.
 
