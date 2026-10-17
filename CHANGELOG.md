@@ -1,6 +1,17 @@
 # Changelog
 
 All notable public changes to this project are documented here.
+
+## Compatibility audit — 2026-10-17
+
+- Audited and tested version `0.1.1` against DayZ 1.30.
+- No incompatibilities were found.
+- Confirmed that the mod does not overwrite the M3S throttle configuration.
+- The vanilla DayZ 1.30 `slopeCoef = 0.75` therefore remains active and may
+  slightly improve the M3S uphill response compared with DayZ 1.29.
+- No source, PBO, signature, Workshop package or mod version change was
+  required.
+
 ## 0.1.1 — 2026-09-26
 
 ### Changed
